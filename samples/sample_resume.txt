@@ -1,0 +1,38 @@
+Rishav Mandal
+Bengaluru, India | rishav.mandal@example.com | +91 98765 43210
+linkedin.com/in/rishavmandal | github.com/rishavmandal
+
+SUMMARY
+Full-stack software engineer with 7+ years of experience building web platforms in PHP and JavaScript.
+Comfortable owning features end to end, from database design to deployment.
+
+EXPERIENCE
+Senior Software Engineer at Northwind Labs | 2021 - Present
+- Led a team of 5 engineers to rebuild the customer portal in Laravel and Vue.js.
+- Reduced average API response time by 42% by adding Redis caching and query tuning.
+- Designed a CI/CD pipeline with GitHub Actions and Docker that cut release time from 2 hours to 15 minutes.
+- Mentored 4 junior developers through weekly code reviews and pairing sessions.
+
+Software Engineer at Bluebird Systems | 2019 - 2021
+- Built a billing service in PHP and MySQL that processed over 1 million transactions per year.
+- Improved test coverage from 38% to 85% using PHPUnit and Pest.
+- Automated monthly reporting with Python and PostgreSQL, saving the finance team 20 hours per month.
+
+Junior Developer at PixelWorks | 2018 - 2019
+- Developed responsive marketing sites with HTML, CSS, Tailwind CSS, and JavaScript.
+- Migrated legacy pages to a component-driven architecture, improving Lighthouse scores by 30%.
+
+SKILLS
+Languages: PHP, JavaScript, TypeScript, Python, SQL, HTML, CSS
+Frameworks: Laravel, Vue.js, React, Node.js, Tailwind CSS, Bootstrap
+Databases: MySQL, PostgreSQL, Redis, MongoDB
+Cloud & DevOps: AWS, Docker, GitHub Actions, Nginx, Linux
+Tools: Git, GitHub, Jira, PHPUnit, Pest, Postman, Figma
+Soft skills: Leadership, Mentoring, Communication, Problem Solving
+
+PROJECTS
+- Built an open-source Laravel package for audit logging with 1,200+ GitHub stars.
+- Created a real-time analytics dashboard with Vue.js, WebSockets, and Redis.
+
+EDUCATION
+B.Tech in Computer Science, Visvesvaraya Technological University, 2014 - 2018

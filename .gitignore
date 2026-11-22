@@ -1,0 +1,5 @@
+/vendor/
+/storage/tmp/*
+!/storage/tmp/.gitkeep
+.DS_Store
+*.log
