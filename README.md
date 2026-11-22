@@ -1,1 +1,1 @@
-# Cover-Letter-Maker
+# Cover-Letter-Maker - Rishav Mandal
